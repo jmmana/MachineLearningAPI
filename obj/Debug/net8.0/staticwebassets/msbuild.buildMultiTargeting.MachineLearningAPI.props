@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MachineLearningAPI.props" />
+</Project>
